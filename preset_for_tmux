@@ -1,0 +1,15 @@
+split-window -v
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+resize-pane -D
+select-pane -U
