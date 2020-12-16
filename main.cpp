@@ -1,5 +1,5 @@
 #include <iostream>
-#include lskdjfa;L
+#define
 int main()
 {
 	std::string mk = "mortal kombat";
